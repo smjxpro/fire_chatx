@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974713934397",
+    "firebase_url": "https://fire-chatx-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fire-chatx",
+    "storage_bucket": "fire-chatx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974713934397:android:c55972d2711a6a7e1bd054",
+        "android_client_info": {
+          "package_name": "xyz.smj.fire_chatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974713934397-vnr37vbhaie8v519efv040b4tb1qndb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_P3idlAM8hG-INeKy0LtRyJp3EzjO4Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974713934397-vnr37vbhaie8v519efv040b4tb1qndb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
